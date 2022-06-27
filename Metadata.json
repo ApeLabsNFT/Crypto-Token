@@ -1,0 +1,17 @@
+{
+    "chainId": 101,
+    "address": "HvRGbJMEZHig1kjnYtqG5mjbWfknmn11mBYZTQoXWckX",
+    "symbol": "MTC",
+    "name": "MTC Token",
+    "decimals": 9,
+    "logoURI": "https://github.com/ApeLabsNFT/Crypto-Token/blob/main/Artboard%202.png",
+    "tags": [
+      "NFT",
+      "Utility-Token"
+    ],
+    "extensions": {
+      "Instagram": "https://www.instagram.com/metatigersnft/",
+      "twitter": "https://twitter.com/metatigersnft/",
+      "website": "https://www.metatigersclub.com/"
+    }
+  }
